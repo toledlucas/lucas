@@ -1,0 +1,21 @@
+.body{
+
+    text-align: left;
+    color: white;
+    background-color: rgb(13, 255, 0);
+}
+
+.titulo {
+    text-align: center;
+    font-family: monospace;
+    color: rgb(194, 194, 194);
+}
+
+.subtitulo {
+    text-align: center;
+    text-orientation: sideways;
+    font-family: monospace; 
+}
+.fotocidade{
+    text-align: center;
+}
